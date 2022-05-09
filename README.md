@@ -7,7 +7,7 @@ This is a crash course for learning Haskell.
 **1. [Motivation](chapters/01-Motivation.md)**\
 In this section we talk about functional programming and Haskell's history. We try to show why Haskell is the right tool for a wide range of programming tasks.
 
-**2. Hello Haskell**\
+**2. [Hello Haskell](chapters/02-HelloHaskell.md)**\
 In this section we explore the various ways to run Haskell code in the cloud and on your computer. We run our first Hello world!
 
 **3. Deciphering the Moon Language**\
